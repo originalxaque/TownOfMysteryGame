@@ -7,16 +7,18 @@ using static System.Console;
 
 namespace TownOfMysteryGame
 {
-    class Game
+    class TownOfMysteryGame
     {
         static void Main(string[] args)
         {
-            Start();
+            Game.Start();
         }
-
+    }
+    class Game
+    {
         /** Starts the game.
          */
-        static void Start()
+        public static void Start()
         {
             ;
         }
@@ -30,7 +32,7 @@ namespace TownOfMysteryGame
 
         /** Get the player's name.
          */
-        static string GetName()
+        static string GetName(string playerInput)
         {
             String name = null;
             return name;

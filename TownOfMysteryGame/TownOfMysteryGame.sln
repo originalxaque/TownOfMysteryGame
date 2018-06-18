@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownOfMysteryGame", "TownOfMysteryGame\TownOfMysteryGame.csproj", "{EC9BA76C-43D7-4346-8E97-2357AE4DF721}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TownOfMysteryGame.UnitTests", "TownOfMysteryGame.UnitTests\TownOfMysteryGame.UnitTests.csproj", "{122504F0-2056-43BC-A93D-1469A4B6106A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EC9BA76C-43D7-4346-8E97-2357AE4DF721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC9BA76C-43D7-4346-8E97-2357AE4DF721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC9BA76C-43D7-4346-8E97-2357AE4DF721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122504F0-2056-43BC-A93D-1469A4B6106A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122504F0-2056-43BC-A93D-1469A4B6106A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122504F0-2056-43BC-A93D-1469A4B6106A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122504F0-2056-43BC-A93D-1469A4B6106A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
